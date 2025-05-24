@@ -1,0 +1,47 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sadman\\source\\repos\\SFML Tutorial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{588DB82B-70CA-4C36-8E1C-D780778F401E}|SFML Tutorial\\SFML Tutorial.vcxproj|C:\\Users\\Sadman\\source\\repos\\SFML Tutorial\\SFML Tutorial\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{588DB82B-70CA-4C36-8E1C-D780778F401E}|SFML Tutorial\\SFML Tutorial.vcxproj|solutionrelative:SFML Tutorial\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 19,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Sadman\\source\\repos\\SFML Tutorial\\SFML Tutorial\\main.cpp",
+              "RelativeDocumentMoniker": "SFML Tutorial\\main.cpp",
+              "ToolTip": "C:\\Users\\Sadman\\source\\repos\\SFML Tutorial\\SFML Tutorial\\main.cpp",
+              "RelativeToolTip": "SFML Tutorial\\main.cpp",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-24T19:12:43.003Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 19,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
